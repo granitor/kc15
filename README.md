@@ -1,8 +1,10 @@
 # kc15
 Public release of the ancient (but possibly revivable) KC1 project, regeneration no. 5
+or "KC15", for short.
 
 TODO
-1. Verify files can actually be built on a modern system 
+
+1. Verify files can actually be built on a modern system  
 2. To that end, DJGPP and DOXBOX will likely be necessary, so stencil time to explain that in public instructions.
 3. Remove any boring cruft from the source
 4. Complete local studio to "good enough" status (need to replace dead servers and regenerate backup plan)
