@@ -21,9 +21,9 @@ Just for the curious to not become furious, I didn't just slap the code up here 
 
 The regenerations.
 
-1. DOS32 with Allegro 4 (DJGPP based). Started on a Windows 9x box and last revise c. 2002
-2. Pygame re-implementation from scratch. It had nice context menus and better FSM design, but I seem to have lost it totally. 
-3. Pyton textual version. Using Python 2.7.x, I think, it was a command-line-driven type application where I was aiming to vbuild a more elegant core which would then be called as a library from a front end. It too seems to have been lost.
+1. DOS32 with Allegro 4 (DJGPP based). Started on a Windows 9x box and last revise c. 2002.
+2. Pygame re-implementation from scratch. It had nice context menus and explictly used FSMs [Finite State Machine] in the design, but I seem to have lost it totally. If only I had used github, eh? Or been priviledged to have a staff, for doing backups faithfully. 
+3. Python textual version. Using Python 2.7.x, I think, it was a command-line-driven type application where I was aiming to vbuild a more elegant core which would then be called as a library from a front end. It too seems to have been lost.
 4. A revised version of #1, which somehow I have a zillion backups off, and even had uploaded to geocities back before it went the way of the null, and became void. Since I could always find it, I could always tweak it, despite it being the worse codebase (since I never refactord it, only added random stuff as I learnt Allegro and C/C++). It had sound (PCM/wave out but from DOS so prob. using the Allegro SB-based routines(?) and gamepad support, but, again, this was lost.
 5. This upcoming one. If it isn't lost by some act of misfortune.
 
